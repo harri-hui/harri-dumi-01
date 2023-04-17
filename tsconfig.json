@@ -12,5 +12,5 @@
       "harri-react-npm-01/*": ["src/*", "*"]
     }
   },
-  "include": [".dumi/**/*", ".dumirc.ts", "src/**/*"]
+  "include": [".dumi/**/*", ".dumirc.ts", "src/**/*", "./**/*.ts"]
 }
